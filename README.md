@@ -5,10 +5,10 @@
 1. 在**程序运行目录**新建一个文件夹存放CefSharp文件，例如  `"resources\chromium"`  
 ```CefSharp类库文件获取可以使用Nuget安装，安装成功后按F5运行一次程序就会在程序运行目录生成相关库文件了。```
 
-2. 添加CefSharp引用
+2. 添加CefSharp引用  
    ![image](https://user-images.githubusercontent.com/38845682/166101319-8a6927e3-e1d4-47cf-adce-63cf1829022c.png)
 
-3. 设置引用`"复制本地"`为False
+3. 设置引用`"复制本地"`为False  
    ![image](https://user-images.githubusercontent.com/38845682/166101325-f81fc596-1a82-42f9-bf97-3902d15c733a.png)
 
 4. 在`"App.config"`中添加以下 runtime，其中 `"privatePath"` 为CefSharp的存放路径
