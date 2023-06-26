@@ -2,7 +2,7 @@
 
 ****
 
-1. 在**程序运行目录**新建一个文件夹存放CefSharp文件，例如  `"resources\chromium"`   
+1. 在**程序运行目录**新建一个文件夹存放CefSharp文件，例如  `"resources\chromium"`    
 ```CefSharp类库文件获取可以使用Nuget安装，安装成功后按F5运行一次程序就会在程序运行目录生成相关库文件了。```
 
 2. 添加CefSharp引用  
